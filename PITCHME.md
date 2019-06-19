@@ -1,5 +1,5 @@
 # Intro to Git
-##Jo Saladas
+## Jo Saladas
 
 ---
 
