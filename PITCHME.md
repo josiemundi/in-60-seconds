@@ -5,7 +5,6 @@
 @title[What is git?]
 
 @snap[north-west h4-white]
-#### The main features...
 @snapend
 
 @snap[east span-45]
