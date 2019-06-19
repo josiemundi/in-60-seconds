@@ -33,7 +33,7 @@
 @ulend
 @snapend
 
----?color=linear-gradient(90deg, #E27924 100%) 
+---?color=#E27924 
 
 @snap[west span-100]
 @ul[spaced text-black]
