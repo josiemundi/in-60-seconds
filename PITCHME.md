@@ -35,7 +35,7 @@
 
 ---?color=#E27924 
 
-@snap[west span-100]
+@snap[west span-100 h4-white]
 @ul[spaced text-white]
 #### Repositories (or repos)
 - A collection of all of the files related to your project
