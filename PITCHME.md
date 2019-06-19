@@ -61,10 +61,10 @@
 @snap[north span-50 h4-black]
 @ul[spaced text-black text-06]
 #### Branches
-- A commit is like 'save' (but not the same)
-- You are creating a snapshot
-- Cumulative commits make up a project
-- You 'commit' changes (example)
+- A divergence from the main branch of development
+- Master is also a branch
+- Branching strategies - we use feature branching for Azure DevOps
+- Branch policies 
 @ulend
 @snapend
 
