@@ -29,7 +29,7 @@
 #### What is git?
 - 2005
 - Linus Torvald to aid Linux kernel development
-- Not the only version control system (but probably the best)
+- Not the only version control system (e.g Subversion)...but probably the best (and most universal)!
 @ulend
 @snapend
 
