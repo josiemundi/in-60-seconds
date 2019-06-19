@@ -96,7 +96,7 @@
 @ul[spaced text-white] 
 - https://git-scm.com/downloads
 
----?code=gitcodelocal
+---?code=gitcode_local
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
