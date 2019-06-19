@@ -58,7 +58,7 @@
 
 ---
 
-@snap[west span-100 h4-black]
+@snap[west span-45 h4-black]
 @ul[spaced text-black]
 #### Branches
 - A commit is like 'save' (but not the same)
@@ -68,7 +68,9 @@
 @ulend
 @snapend
 
+@snap[east span-45]
 @img[shadow](assets/img/using_branches_001.png)
+@snapend
 
 ---
 
