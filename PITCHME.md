@@ -3,7 +3,7 @@
 
 ---
 
-## Install git and create GitHub account
+#### Install git and create GitHub account
 
 ![](assets/img/Octocat.png)
 
