@@ -20,6 +20,11 @@
 @ulend
 @snapend
 
+@snap[east span-45]
+@img[shadow](assets/img/conference.png)
+@snapend
+
+
 ---
 
 #### Install git and create GitHub account
