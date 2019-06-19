@@ -7,9 +7,6 @@
 
 ![](assets/img/Octocat.png)
 
----
-#### Install git
-
 ---?code=code
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
