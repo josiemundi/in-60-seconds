@@ -78,6 +78,10 @@
 
 ![](assets/img/Octocat.png)
 
+---
+
+![](assets/img/signupgithub.png)
+
 ---?code=code
 
 @snap[south span-100]
