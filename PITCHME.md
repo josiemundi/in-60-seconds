@@ -68,6 +68,8 @@
 @ulend
 @snapend
 
+@img[shadow](assets/img/using_branches_001.png)
+
 ---
 
 #### Install git and create GitHub account
