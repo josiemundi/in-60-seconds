@@ -58,6 +58,18 @@
 
 ---
 
+@snap[west span-100 h4-black]
+@ul[spaced text-black]
+#### Branches
+- A commit is like 'save' (but not the same)
+- You are creating a snapshot
+- Cumulative commits make up a project
+- You 'commit' changes (example)
+@ulend
+@snapend
+
+---
+
 #### Install git and create GitHub account
 
 ![](assets/img/Octocat.png)
