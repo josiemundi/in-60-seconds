@@ -7,11 +7,11 @@
 
 ![](assets/img/Octocat.png)
 
+---?code=code
+
 @snap[west span-55]
 @ul[spaced text-white] 
 - https://git-scm.com/downloads
-
----?code=code
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
