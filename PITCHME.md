@@ -68,7 +68,7 @@
 @ulend
 @snapend
 
-@snap[south span-80]
+@snap[south span-90]
 @img[shadow](assets/img/using_branches_001.png)
 @snapend
 
