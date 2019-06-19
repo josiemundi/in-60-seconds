@@ -27,11 +27,6 @@
 @snap[west span-40]
 @ul[spaced text-black]
 #### What is git?
-@ulend
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-black]
 - 2005
 - Linus Torvald to aid Linux kernel development
 - Not the only version control system (but probably the best)
