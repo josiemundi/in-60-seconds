@@ -7,8 +7,9 @@
 
 ![](assets/img/Octocat.png)
 
+- https://git-scm.com/downloads
+
 ---?code=code
-###### https://git-scm.com/downloads
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
