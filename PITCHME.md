@@ -3,7 +3,7 @@
 
 ---
 
-## Add Some Slide Candy
+## Installing git
 
 ![](assets/img/presentation.png)
 
