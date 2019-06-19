@@ -23,6 +23,18 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
+---
+
+#### What is git?
+
+@snapend
+@snap[west span-55]
+@ul[spaced text-black]
+- 2005
+- Linus Torvald to aid Linux kernel development
+- Not the only version control system (but probably the best)
+@ulend
+@snapend
 
 ---
 
