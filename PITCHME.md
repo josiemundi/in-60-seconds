@@ -58,8 +58,8 @@
 
 ---
 
-@snap[north span-70 h4-black]
-@ul[spaced text-black]
+@snap[north span-50 h4-black]
+@ul[spaced text-black text-06]
 #### Branches
 - A commit is like 'save' (but not the same)
 - You are creating a snapshot
