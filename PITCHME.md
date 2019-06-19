@@ -2,6 +2,18 @@
 ## Jo Saladas
 
 ---
+### What is git? 
+
+@snap[west span-55]
+@ul[spaced text-white]
+- A system that keeps record of your changes
+- Collaborative development environment
+- Transparency of who made changes
+- Allows you to go (revert) back to previous versions
+@ulend
+@snapend
+
+---
 
 #### Install git and create GitHub account
 
