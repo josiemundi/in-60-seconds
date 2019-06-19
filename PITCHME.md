@@ -7,6 +7,8 @@
 
 ![](assets/img/Octocat.png)
 
+@snap[west span-55]
+@ul[spaced text-white] 
 - https://git-scm.com/downloads
 
 ---?code=code
