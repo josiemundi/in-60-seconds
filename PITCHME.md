@@ -44,6 +44,18 @@
 @ulend
 @snapend
 
+--- 
+
+@snap[west span-100 h4-#E27924]
+@ul[spaced text-black]
+#### Commits
+- A commit is like 'save' (but not the same)
+- You are creating a snapshot
+- Cumulative commits make up a project
+- You 'commit' changes (example)
+@ulend
+@snapend
+
 ---
 
 #### Install git and create GitHub account
