@@ -35,6 +35,16 @@
 
 ---
 
+@snap[west span-100]
+@ul[spaced text-black]
+#### Repositories (We like to call them repos!)
+- A collection of all of the files related to your project
+- All of the history associated with these files
+@ulend
+@snapend
+
+---
+
 #### Install git and create GitHub account
 
 ![](assets/img/Octocat.png)
