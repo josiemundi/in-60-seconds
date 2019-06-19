@@ -9,7 +9,7 @@
 
 ---?code=code
 
-@snap[west span-55]
+@snap[south span-100]
 @ul[spaced text-white] 
 - https://git-scm.com/downloads
 
