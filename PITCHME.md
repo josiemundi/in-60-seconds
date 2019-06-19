@@ -37,9 +37,10 @@
 
 @snap[west span-100]
 @ul[spaced text-black]
-#### Repositories (We like to call them repos!)
+### Repositories (We like to call them repos!)
 - A collection of all of the files related to your project
 - All of the history associated with these files
+- Local (on your machine) or on remote server (in GitHub)
 @ulend
 @snapend
 
