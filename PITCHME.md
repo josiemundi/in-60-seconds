@@ -24,7 +24,7 @@
 
 ---
 
-@snap[west span-40]
+@snap[west span-50]
 @ul[spaced text-black]
 #### What is git?
 - 2005
