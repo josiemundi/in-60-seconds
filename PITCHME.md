@@ -86,6 +86,10 @@
 
 ![](assets/img/githubprofile.png)
 
+---
+
+![](assets/img/githubterminal.png)
+
 ---?code=code
 
 @snap[south span-100]
