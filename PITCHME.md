@@ -1,5 +1,4 @@
 # Intro to Git
-## Jo Saladas
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[What is git?]
