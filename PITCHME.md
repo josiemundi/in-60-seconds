@@ -1,9 +1,16 @@
 # Intro to Git
 ## Jo Saladas
 
----
-### What is git? 
+---?color=linear-gradient(90deg, #E27924 65%, white 35%)
+@title[What is git?]
 
+@snap[north-west h4-white]
+#### The main features...
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/conference.png)
+@snapend
 @snap[west span-55]
 @ul[spaced text-white]
 - A system that keeps record of your changes
