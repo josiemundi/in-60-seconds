@@ -68,7 +68,7 @@
 @ulend
 @snapend
 
-@snap[east span-40]
+@snap[east span-60]
 @img[shadow](assets/img/branching.png)
 @snapend
 
