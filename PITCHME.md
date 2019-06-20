@@ -59,7 +59,7 @@
 ---
 
 @snap[north span-100 h4-black]
-@ul[spaced text-black text-04]
+@ul[spaced text-black text-08]
 #### Branches
 - A divergence from the main branch of development
 - Master is also a branch
