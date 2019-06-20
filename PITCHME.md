@@ -110,6 +110,18 @@
 
 ![](assets/img/gitinit.png)
 
+---
+
+![](assets/img/addingfiles.png)
+
+---
+
+![](assets/img/gitaddreadme.png)
+
+---
+
+![](assets/img/commitedfiles.png)
+
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
 
