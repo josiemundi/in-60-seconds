@@ -68,7 +68,8 @@
 @ulend
 @snapend
 
-@snap[east span-45]
+---
+#### Feature Branching strategy
 @img[shadow](assets/img/branching.png)
 @snapend
 
