@@ -58,7 +58,7 @@
 
 ---
 
-@snap[north span-55 h4-black]
+@snap[west span-50 h4-black]
 @ul[spaced text-black text-08]
 #### Branches
 - A divergence from the main branch of development
@@ -68,7 +68,7 @@
 @ulend
 @snapend
 
-@snap[east span-60]
+@snap[east span-40]
 @img[shadow](assets/img/branching.png)
 @snapend
 
