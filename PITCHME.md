@@ -19,7 +19,7 @@
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/gitlogo.png)
 @snapend
 
 ---
