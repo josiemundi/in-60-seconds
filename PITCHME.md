@@ -7,7 +7,7 @@
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/gitlogo.png)
 @snapend
 @snap[west span-55]
 @ul[spaced text-white]
