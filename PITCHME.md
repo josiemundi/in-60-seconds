@@ -112,11 +112,11 @@
 
 ---
 
-![](assets/img/addingfiles.png)
+![](assets/img/gitaddreadme.png)
 
 ---
 
-![](assets/img/gitaddreadme.png)
+![](assets/img/addingfiles.png)
 
 ---
 
