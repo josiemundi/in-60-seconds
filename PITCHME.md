@@ -70,8 +70,12 @@
 
 ---
 #### Feature Branching strategy
-@img[shadow](assets/img/branching.png)
+@img[shadow](assets/img/gitbranch1.png)
 @snapend
+
+---
+
+![](assets/img/gitbranch.png)
 
 ---
 
