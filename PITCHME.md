@@ -78,18 +78,20 @@
 @img[shadow](assets/img/gitbranch.PNG)
 @snapend
 
+---
+
+![](assets/img/gitbranch1.PNG)
+
 ---?color=#E27924
 
+@snap[west span-100 h4-white]
 @ul[spaced text-white]
 #### Pull Requests
 - Share your code changes with colleagues
 - Request changes to be merged with another branch (usually dev or master)
 - Changes can be peer reviews (you can set rules)
 @ulend
-
----
-
-![](assets/img/gitbranch1.PNG)
+@snapend
 
 ---
 
