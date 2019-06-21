@@ -33,6 +33,11 @@
 @ulend
 @snapend
 
+---
+#### Companies that use git
+
+![](assets/img/companiesgit.png)
+
 ---?color=#E27924 
 
 @snap[west span-100 h4-white]
